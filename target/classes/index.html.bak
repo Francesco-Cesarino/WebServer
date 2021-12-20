@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <title> pagina1</title>
+    
+    </head>
+    
+
+    <body> 
+        
+        <center>
+
+            <h1> BENVENUTO NELLA PAGINA DI GOPA!</h1>
+            <img src="stick.png" alt="Immagine Stickman">
+
+        </center>
+            
+    </body>
+
+</html>
